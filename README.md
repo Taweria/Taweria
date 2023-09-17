@@ -6,7 +6,7 @@
 
 ## About me
 
-For the moment and until March, I'm a trainee at [BeCode.org](https://github.com/becodeorg). <br>
+For the moment and until March 2024, I'm a trainee at [BeCode.org](https://github.com/becodeorg). <br>
 I'd like to move into front-end development. <br>
 I'm passionate about pixel-perfect, beautiful interfaces and intuitively implemented UX. <br>
 I love transforming a design into a functional website. <br>
