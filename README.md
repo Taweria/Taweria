@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋 I'm Elodie Ali (alias Taweria)
 
-<!--
-**Taweria/taweria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@taweria-%23181717?style=flat-square&logo=github)](https://github.com/Taweria)
+[![](https://img.shields.io/badge/-@elodieali-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elodie-ali-642726288/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+For the moment and until March, I'm a trainee at [BeCode.org](https://github.com/becodeorg). <br>
+I'd like to move into front-end development. <br>
+I'm passionate about pixel-perfect, beautiful interfaces and intuitively implemented UX. <br>
+I love transforming a design into a functional website. <br>
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+I work on a lot of things to further my learning at BeCode! Check my repositories!
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&labelColor=B0C4DE&color=B0C4DE)
+
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
