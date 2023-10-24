@@ -24,6 +24,7 @@ I work on a lot of things to further my learning at BeCode! Check my repositorie
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&labelColor=B0C4DE&color=B0C4DE)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
