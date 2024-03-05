@@ -11,6 +11,8 @@ I'd like to move into front-end development. <br>
 I'm passionate about pixel-perfect, beautiful interfaces and intuitively implemented UX. <br>
 I love transforming a design into a functional website. <br>
 
+You can contact me at elodieali.pro@gmail.com
+
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 I work on a lot of things to further my learning at BeCode! Check my repositories!
