@@ -15,7 +15,7 @@ You can contact me at elodieali.pro@gmail.com
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-I work on a lot of things to further my learning at BeCode! Check my repositories!
+Currently I am not working on personnal projects due to my intership. But you can check my repositories where you can observe my learning curve at [Becode.org](https://becode.org/).
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
