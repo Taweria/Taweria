@@ -6,10 +6,10 @@
 
 ## About me
 
-For the moment and until March 2024, I'm a trainee at [BeCode.org](https://github.com/becodeorg). <br>
-I'd like to move into front-end development. <br>
-I'm passionate about pixel-perfect, beautiful interfaces and intuitively implemented UX. <br>
-I love transforming a design into a functional website. <br>
+For the moment and until 7th June 2024, I'm in internship at [Semactic](https://semactic.com/en/) <br>
+I like front-end development. <br>
+I'm passionate about pixel-perfect, beautiful interfaces and intuitively implemented UX which I also like to designate. <br>
+I love transforming a nice and intuitive design into a functional website. <br>
 
 You can contact me at elodieali.pro@gmail.com
 
